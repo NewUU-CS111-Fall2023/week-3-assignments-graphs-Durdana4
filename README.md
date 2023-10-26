@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/K47C8YXK)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12584450&assignment_repo_type=AssignmentRepo)
 # Description of the project
 In this assignment you will practive data types in C++ and Python. \
 It is up to you to choose programming language for the task, however one PL **may not** cover more than 70% of all tasks.
